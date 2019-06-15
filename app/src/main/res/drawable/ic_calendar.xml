@@ -1,0 +1,18 @@
+<vector android:height="21dp" android:viewportHeight="21.413"
+    android:viewportWidth="21.412" android:width="21dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#88ffa4" android:pathData="M18.9,1.673h-1L17.9,0L16.227,0L16.227,1.673L5.186,1.673L5.186,0L3.513,0L3.513,1.673h-1A2.512,2.512 0,0 0,0 4.182L0,18.9a2.512,2.512 0,0 0,2.509 2.509L18.9,21.409A2.512,2.512 0,0 0,21.412 18.9L21.412,4.182A2.512,2.512 0,0 0,18.9 1.673ZM19.74,18.9a0.837,0.837 0,0 1,-0.836 0.836L2.509,19.736a0.837,0.837 0,0 1,-0.836 -0.836L1.673,7.862L19.74,7.862ZM19.74,6.186L1.673,6.186L1.673,4.182a0.837,0.837 0,0 1,0.836 -0.836h1L3.509,5.019L5.186,5.019L5.186,3.346L16.227,3.346L16.227,5.019L17.9,5.019L17.9,3.346h1a0.837,0.837 0,0 1,0.836 0.836Z"/>
+    <path android:fillColor="#88ffa4" android:pathData="M3.178,9.619h1.673v1.673h-1.673z"/>
+    <path android:fillColor="#88ffa4" android:pathData="M6.524,9.619h1.673v1.673h-1.673z"/>
+    <path android:fillColor="#88ffa4" android:pathData="M9.87,9.619h1.673v1.673h-1.673z"/>
+    <path android:fillColor="#88ffa4" android:pathData="M13.216,9.619h1.673v1.673h-1.673z"/>
+    <path android:fillColor="#88ffa4" android:pathData="M16.561,9.619h1.673v1.673h-1.673z"/>
+    <path android:fillColor="#88ffa4" android:pathData="M3.178,12.965h1.673v1.673h-1.673z"/>
+    <path android:fillColor="#88ffa4" android:pathData="M6.524,12.965h1.673v1.673h-1.673z"/>
+    <path android:fillColor="#88ffa4" android:pathData="M9.87,12.965h1.673v1.673h-1.673z"/>
+    <path android:fillColor="#88ffa4" android:pathData="M13.216,12.965h1.673v1.673h-1.673z"/>
+    <path android:fillColor="#88ffa4" android:pathData="M3.178,16.31h1.673v1.673h-1.673z"/>
+    <path android:fillColor="#88ffa4" android:pathData="M6.524,16.31h1.673v1.673h-1.673z"/>
+    <path android:fillColor="#88ffa4" android:pathData="M9.87,16.31h1.673v1.673h-1.673z"/>
+    <path android:fillColor="#88ffa4" android:pathData="M13.216,16.31h1.673v1.673h-1.673z"/>
+    <path android:fillColor="#88ffa4" android:pathData="M16.561,12.965h1.673v1.673h-1.673z"/>
+</vector>
