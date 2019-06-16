@@ -13,8 +13,23 @@ class LoginActivity : AppCompatActivity() {
         setContentView(R.layout.activity_login)
 
         bt_login.setOnClickListener {
-            startActivity(Intent(this, MainProducaoActivity::class.java))
-            finish()
+            if (et_email.text.isNullOrEmpty()) {
+                til_email.error = "Preencha o e-mail"
+            } else if (et_password.text.isNullOrEmpty()) {
+                til_password.error = "Preencha a senha"
+            } else {
+                til_email.error = null
+                til_password.error = null
+                if (et_email.text.toString() == "producao@email.com") {
+                    startActivity(Intent(this, MainProducaoActivity::class.java))
+                    finish()
+                } else if (et_email.text.toString() == "entregador@email.com") {
+                    startActivity(Intent(this, MainEntregadorActivity::class.java))
+                    finish()
+                } else {
+                    til_email.error = "E-mail inválido"
+                }
+            }
         }
     }
 }

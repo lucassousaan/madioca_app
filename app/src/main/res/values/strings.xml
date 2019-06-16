@@ -20,4 +20,8 @@
     <string name="question_logout">Tem certeza que deseja sair da sua conta?</string>
     <string name="yes">Sim</string>
     <string name="no">Não</string>
+    <string name="register">Registrar</string>
+    <string name="consultar_fornecimento">Consultar</string>
+    <string name="schedule">Agendamento</string>
+    <string name="consultar_fornecimento_phrase">Consultar fornecimento</string>
 </resources>
